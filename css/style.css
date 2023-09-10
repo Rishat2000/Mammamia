@@ -551,7 +551,7 @@ h6 {
 
 .top-footer__link {
   color: var(--black-font-color, #231900);
-  font-size: 1.0625rem;
+  font-size: 1.0625rem !important;
   font-weight: 400;
   line-height: normal;
 }
